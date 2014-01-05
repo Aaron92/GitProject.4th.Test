@@ -16,3 +16,13 @@ p{
 font-family:"Lobster", Times New Roman;
 font size:14px;
 }
+a{
+text-decoration:none;
+color:#09F;
+}
+a:hover{
+text-decoration:underline;
+}
+a:active{
+color:#06F:
+}
